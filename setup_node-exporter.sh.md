@@ -1,5 +1,5 @@
+## Node-Exporter Setup Shell Script.
 ```
-root@ip-172-31-42-120:/home/ubuntu# cat setup_node_exporter.sh
 #!/bin/bash
 set -e
 
