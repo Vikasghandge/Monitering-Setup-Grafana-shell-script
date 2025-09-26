@@ -12,7 +12,7 @@ This repository contains three shell scripts (one for each component) that autom
 
 1. Install `node_exporter` on every server you want to monitor (targets).
 2. Install `prometheus` on your monitoring server and add the node_exporter targets.
-3. Install `grafana` on the same monitoring server (or a separate server) and connect it to Prometheus as a data source.
+3. Install `grafana` on the same prometheus  server (or a separate server) and connect it to Prometheus as a data source.
 
 Ports used (defaults):
 
